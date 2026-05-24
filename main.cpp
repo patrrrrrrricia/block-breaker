@@ -433,7 +433,7 @@ int main() {
         startTime = SDL_GetTicks();
 
         processEvents();    //input
-        processMovement();  //miscare paleta
+        processMovement();  //miscares paleta
         animate();          //fizica si coliziuni
         drawFrame();        //desenare
 
