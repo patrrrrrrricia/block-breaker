@@ -29,5 +29,11 @@ A high-performance **Block Breaker** game developed in **C++** using **SDL3** an
 * **`Rectangle Struct`**: Manages entity properties including health (lives), hit animations, and rendering logic.
 
 ---
+## Visual Documentation
+
+| Initial State | Collision / Gameplay |
+| :---: | :---: |
+| <img width="600" src="https://github.com/user-attachments/assets/1141fc90-6842-4be8-8631-36ef4ed21a07" /> | <img width="600" src="https://github.com/user-attachments/assets/1f0b4602-51f9-41e3-bd34-c455a3e95435" /> |
+---
 
 © 2025 Glitter Geeks Coderun | Developed by [**𝐅𝐥𝐨𝐫𝐞𝐚𝐧 𝐄𝐦𝐢𝐥𝐢𝐚-𝐀𝐥𝐞𝐱𝐚𝐧𝐝𝐫𝐚**](https://github.com/Emily-f2510), [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/), [**𝐋𝐮𝐩𝐚𝐧𝐜𝐮 𝐆𝐚𝐛𝐫𝐢𝐞𝐥𝐚-𝐕𝐚𝐥𝐞𝐧𝐭𝐢𝐧𝐚**](https://github.com/gabrielalupancu)
