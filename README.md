@@ -1,4 +1,4 @@
-# Block Breaker - HARD
+# Block Breaker 
 
 ## Overview
 A high-performance **Block Breaker** game developed in **C++** using **SDL3** and **GLM**. This project features a sophisticated collision engine, multi-stage brick durability logic, and real-time color interpolation for visual feedback. It pushes the boundaries of standard arcade mechanics by implementing a dynamic "hit-animation" system and custom circle rasterization.
