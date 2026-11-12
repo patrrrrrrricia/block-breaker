@@ -11,7 +11,7 @@ A high-performance **Block Breaker** game developed in **C++** using **SDL3** an
 * **Mathematics:** GLM (Linear Algebra)
 * **Core Concepts:** Game Loop, Delta-Time Physics, Collision Detection, Linear Interpolation (Lerp)
 
-![C++](https://img.shields.io/badge/C%2B%2B-Language-%23FF69B4.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![SDL3](https://img.shields.io/badge/SDL3-Game_Dev-%23FF69B4.svg?style=for-the-badge&logo=sdl&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Language-ECCACB.svg?style=for-the-badge&logo=cplusplus&logoColor=3B3B3B) ![SDL3](https://img.shields.io/badge/SDL3-Game_Dev-ECCACB.svg?style=for-the-badge&logo=sdl&logoColor=3B3B3B)
 
 ---
 
